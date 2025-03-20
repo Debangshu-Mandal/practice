@@ -1,11 +1,11 @@
 public class Program1{
 	public static void main(String[] args){
-		int a = 10;
-		int b = 20;
-		int temp = a;
-		a = b;
-		b = temp;
-		System.out.println(a);
-		System.out.println(b);
+		int A = 100;
+		int A = 200;
+		int temp = A;
+		A = B;
+		B = temp;
+		System.out.println(A);
+		System.out.println(B);
 	}
 }
